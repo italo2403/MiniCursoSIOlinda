@@ -1,0 +1,21 @@
+body{
+    background-image: url('/assets/img/image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 22px;
+    font-family: cursive;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: red;
+    color: white;
+    padding: 2px;
+}
